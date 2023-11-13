@@ -1,0 +1,1 @@
+This folder contains the tutorial of PYNQ board that is programmed in such a way that LED colour would change if switch 0 pressed, 4 side LED would blink if switch 2 pressed and the PYNQ board would off if switch 3 is pressed
